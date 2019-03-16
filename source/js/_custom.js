@@ -155,7 +155,7 @@ $(document).ready(function() {
             'icon': image
         }).click(function() {
             $('#map_canvas').gmap('openInfoWindow', {
-                'content': '<h4>JOIN 2018</h4><p><strong>Departamento de Informática</strong><br>Anfiteatro 2</p>'
+                'content': '<h4>JOIN 2019</h4><p><strong>Departamento de Informática</strong><br>Anfiteatro 2</p>'
             }, this);
         });
     });
