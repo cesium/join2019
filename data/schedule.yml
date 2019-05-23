@@ -34,54 +34,42 @@ days:
         title: Sessão de Abertura
         text: >
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
-      - time: '10:15'
+      - time: '10:00'
         icon: fab fa-connectdevelop
-        title: Preparing Programmers for Quantum
+        title: TBA
         speaker:
-          name: José Nuno Oliveira
-          from: Universidade do Minho
-      - time: '11:00'
+          name: TBA
+          from: Euronext
+      - time: '10:20'
+        icon: fa fa-microphone
+        title: TBA
+        speaker:
+          name: Filipe Castro
+          from: UTrust
+      - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
-      - time: '11:55'
+      - time: '11:35'
         icon: fa fa-microphone
-        title: Test Automation in a Fast Paced Business!
+        title: TBA
         speaker:
-          name: Sérgio Pinheiro
-          from: 360 Imprimir
-      - time: '12:15'
-        icon: fa fa-microphone
-        title: Managed Services | Celfocus focus on client
-        speaker:
-          name: Marco Lizardo
-          from: Celfocus
-      - time: '12:40'
-        icon: fa fa-microphone
-        title: Introduction to Modern Graph Analysis using opensource tools like Tinkerpop and Janusgraph
-        speaker:
-          name: Ricardo Faria
-          from: Sonae IM
-      - time: '13:00'
+          name: TBA
+          from: Accenture
+      - time: '12:20'
         icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: Computação Paralela Distribuída
+        title: TBA
         speaker:
-          name: Alberto José Proença
-          from: Universidade do Minho
-      - time: '15:15'
-        icon: fa fa-microphone
-        title: Computação Gráfica
-        speaker:
-          name: Luís Paulo Santos
-          from: Universidade do Minho
-      - time: '15:40'
+          name: Miguel Palhas
+          from: UTrust
+      - time: '15:20'
         icon: fa fa-microphone
         title: TBA
         speaker:
-          name: António Lemos
-          from: Accenture
+          name: TBA
+          from: Critical Software
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -89,102 +77,96 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Ana Anjo
-          from: Vilt
+          name: TBA
+          from: Bold
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: André Silva
-          from: PRIME IT
+          name: TBA
+          from: Kwan
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Eduardo Afonso
-          from: APTIV
+          name: TBA
+          from: Prime IT
       - time: '17:00'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Regina Sacchetti & Carlos Lopes
-          from: Inova Ria
+          name: TBA
+          from: Aubay
       - time: '17:10'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Maria Inês Domingues
-          from: IT Sector
+          name: TBA
+          from: Automaise
       - time: '17:20'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Sara Gorjão
-          from: Kwan
-      - time: '18:30'
-        icon: fas fa-comments
-        title: Entrevistas
+          name: TBA
+          from: Winprovit
+      - time: '17:20'
+        icon: fa fa-hourglass-start
+        title: Pitch
         speaker:
-          name:
-          from:
+          name: TBA
+          from: Syone
   
   - id: daytwo
     date: Junho 4
     events:
-      - time: '09:30'
+      - time: '09:15'
         icon: fa fa-chevron-circle-right
-        title: Machine Learning
+        title: TBA
         speaker:
-          name: César Analide
-          from: Universidade do Minho
-      - time: '10:15'
+          name: TBA
+          from: Primavera BSS
+      - time: '09:35'
         icon: fab fa-connectdevelop
-        title: Engenharia do Conhecimento
+        title: TBA
         speaker:
-          name: José Machado & Ricardo Godinho
-          from: Universidade do Minho
-      - time: '11:00'
+          name: TBA
+          from: Vilt
+      - time: '10:20'
+        icon: fab fa-connectdevelop
+        title: TBA
+        speaker:
+          name: Bruno Lourenço
+          from: Ginetta
+      - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
-      - time: '11:30'
-        icon: fab fa-connectdevelop
-        title: "Crowdsourcing, Big Data e Behavioural Science: Nossos Pilares"
-        speaker:
-          name: Maurício Moura & Kiko Sader
-          from: Alexandria
-      - time: '11:55'
+      - time: '11:35'
         icon: fa fa-microphone
-        title: Before there was nothing ...
+        title: TBA
         speaker:
-          name: Pedro Mendes & Diogo Rocha
-          from: Primavera
-      - time: '12:15'
-        icon: fa fa-microphone
-        title: Sistemas Inteligentes
-        speaker:
-          name: Paulo Novais
-          from: Universidade do Minho      
-      - time: '13:00'
+          name: TBA
+          from: 360 Imprimir    
+      - time: '12:20'
         icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: Criptografia e Segurança da Informação
+        title: TBA
         speaker:
-          name: José Valença
-          from: Universidade do Minho
-      - time: '14:55'
+          name: Pedro Costa
+          from: Subvisual
+      - time: '15:20'
         icon: fa fa-microphone
-        title: O valor da segurança
+        title: TBA
         speaker:
-          name: Vítor Castro
-          from: INCM
-      - time: '15:15'
+          name: TBA
+          from: Eurotux
+      - time: '15:40'
         icon: fab fa-connectdevelop
-        title: Infrastructure @ Farfetch
+        title: TBA
         speaker:
-          name: Cristiano Cunha & André Carmo
-          from: Farfetch
+          name: TBA
+          from: Open Soft
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -192,129 +174,89 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Diogo Ferreira
-          from: i2s
+          name: TBA
+          from: Ano
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: António Silva Ferreira
-          from: Enancer
+          name: TBA
+          from: IT Sector
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          from: Natixis
+          name: TBA
+          from: Gfi Portugal
       - time: '17:00'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Pedro Alves
-          from: WINTOUCH
+          name: TBA
+          from: Withus
       - time: '17:10'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          from: Fujitsu
+          name: TBA
+          from: Inova-Ria
       - time: '17:20'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: João Gomes
-          from: Syone
+          name: TBA
+          from: Go Contact
       - time: '18:30'
         icon: beer
         title: Sunset
         speaker:
           from: Restaurante Panorâmico
-      - time: '18:30'
-        icon: fas fa-comments
-        title: Entrevistas
-        speaker:
-          name:
-          from:
   
   - id: daythree
     date: Junho 5
     events:
-      - time: '09:30'
+      - time: '10:00'
         icon: fa fa-chevron-circle-right
-        title: Engenharia de Sistemas de Software
+        title: TBA
         speaker:
-          name: André Leite Ferreira
-          from: Universidade do Minho
-      - time: '9:50'
+          name: TBA
+          from: TBA
+      - time: '10:20'
         icon: fa fa-microphone
-        title: Métodos Formais em Engenharia de Software
+        title: TBA
         speaker:
-          name: José Nuno Oliveira
-          from: Universidade do Minho
-      - time: '10:15'
-        icon: fab fa-connectdevelop
-        title: Application Security in Practice @ Checkmarx
-        speaker:
-          name: Daniel Novais e Fu Xu
-          from: Checkmarx
-      - time: '10:40'
-        icon: fa fa-microphone
-        title: Recauchutagem do Dicionário da Academia
-        speaker:
-          name: Alberto Simões
-          from: IPCA
-      - time: '11:00'
+          name: TBA
+          from: TBA
+      - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
-      - time: '11:30'
+      - time: '11:35'
         icon: fab fa-connectdevelop
-        title: Sistemas Distribuídos
+        title: TBA
         speaker:
-          name: Carlos Baquero
-          from: Universidade do Minho
-      - time: '11:55'
-        icon: fa fa-microphone
-        title: Engineering @ OutSystems
-        speaker:
-          name: Carla Gregório & Tiago Fernandes
-          from: Outsystems
-      - time: '12:15'
-        icon: fa fa-microphone
-        title: Engenharia de Aplicações
-        speaker:
-          name: António Luís Sousa
-          from: Universidade do Minho
-      - time: '12:40'
-        icon: fab fa-connectdevelop
-        title: Administração de Sistemas
-        speaker:
-          name: António Coutinho
-          from: Eurotux
-      - time: '13:00'
+          name: TBA
+          from: Smith Micro
+      - time: '12:20'
         icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: Engenharia de Redes e Serviços Internet
+        title: TBA
         speaker:
-          name: Pedro Nuno Sousa
-          from: Universidade do Minho
-      - time: '14:55'
+          name: TBA
+          from: TBA
+      - time: '15:20'
         icon: fab fa-connectdevelop
-        title: Vehicular Communication Technologies and ITS Applications
+        title: TBA
         speaker:
-          name: Bruno Ribeiro
-          from: Universidade do Minho / Centro Algoritmi
-      - time: '15:15'
-        icon: fa fa-microphone
-        title: Gestão e Virtualização de Redes
-        speaker:
-          name: António Costa
-          from: Universidade do Minho
+          name: TBA
+          from: Outsystems
       - time: '15:40'
         icon: fa fa-microphone
-        title: Secure Communications and Identity Management in Vehicular Networks
+        title: TBA
         speaker:
-          name: Fábio Gonçalves
-          from: Universidade do Minho / Centro Algoritmi
+          name: TBA
+          from: Ordem dos Engenheiros
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -322,39 +264,23 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Bruno Costa
-          from: Alert
+          name: TBA
+          from: Fujitsu
       - time: '16:40'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Pedro Leite
-          from: Ano
+          name: TBA
+          from: Creative Systems
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          from: Blip
+          name: TBA
+          from: Logic Info
       - time: '17:00'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: Helena Castro
-          from: EbankIT
-      - time: '17:10'
-        icon: fa fa-hourglass-start
-        title: Pitch
-        speaker:
-          from: Smith Micro Software
-      - time: '17:20'
-        icon: fa fa-hourglass-start
-        title: Pitch
-        speaker:
-          name: Ricardo Lopes
-          from: iKual
-      - time: '18:30'
-        icon: fas fa-comments
-        title: Entrevistas
-        speaker:
-          name:
-          from:
+          name: TBA
+          from: Ibank IT
