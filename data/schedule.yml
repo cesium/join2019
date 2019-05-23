@@ -27,9 +27,9 @@
 
 days:
   - id: dayone
-    date: Junho 11
+    date: Junho 3
     events:
-      - time: '09:30'
+      - time: '09:15'
         icon: fa fa-chevron-circle-right
         title: Sessão de Abertura
         text: >
@@ -129,7 +129,7 @@ days:
           from:
   
   - id: daytwo
-    date: Junho 12
+    date: Junho 4
     events:
       - time: '09:30'
         icon: fa fa-chevron-circle-right
@@ -235,7 +235,7 @@ days:
           from:
   
   - id: daythree
-    date: Junho 13
+    date: Junho 5
     events:
       - time: '09:30'
         icon: fa fa-chevron-circle-right
