@@ -35,17 +35,16 @@ days:
         text: >
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '10:00'
-        icon: fab fa-connectdevelop
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: TBA
           from: Euronext
       - time: '10:20'
-        icon: fa fa-microphone
+        icon: fab fa-connectdevelop
         title: TBA
         speaker:
           name: Filipe Castro
-          from: UTrust
       - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
@@ -60,15 +59,14 @@ days:
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: TBA
+        title: Building a Blockchain
         speaker:
           name: Miguel Palhas
-          from: UTrust
       - time: '15:20'
         icon: fa fa-microphone
         title: TBA
         speaker:
-          name: TBA
+          name: João Esteves
           from: Critical Software
       - time: '16:00'
         icon: fa fa-coffee
@@ -89,7 +87,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: André Silva
           from: Prime IT
       - time: '17:00'
         icon: fa fa-hourglass-start
@@ -101,7 +99,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Ernesto Pedrosa
           from: Automaise
       - time: '17:20'
         icon: fa fa-hourglass-start
@@ -126,7 +124,7 @@ days:
           name: TBA
           from: Primavera BSS
       - time: '09:35'
-        icon: fab fa-connectdevelop
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: TBA
@@ -136,7 +134,6 @@ days:
         title: TBA
         speaker:
           name: Bruno Lourenço
-          from: Ginetta
       - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
@@ -144,25 +141,24 @@ days:
         icon: fa fa-microphone
         title: TBA
         speaker:
-          name: TBA
+          name: Luís Barbosa e Hugo Neto
           from: 360 Imprimir    
       - time: '12:20'
         icon: fas fa-utensils
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: TBA
+        title: Continuous Delivery
         speaker:
           name: Pedro Costa
-          from: Subvisual
       - time: '15:20'
         icon: fa fa-microphone
-        title: TBA
+        title: O que as empresas esperam de um web developer
         speaker:
-          name: TBA
+          name: Marlene Silva
           from: Eurotux
       - time: '15:40'
-        icon: fab fa-connectdevelop
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: TBA
@@ -222,16 +218,15 @@ days:
           name: TBA
           from: TBA
       - time: '10:20'
-        icon: fa fa-microphone
+        icon: fab fa-connectdevelop
         title: TBA
         speaker:
           name: TBA
-          from: TBA
       - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
       - time: '11:35'
-        icon: fab fa-connectdevelop
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: TBA
@@ -244,9 +239,8 @@ days:
         title: TBA
         speaker:
           name: TBA
-          from: TBA
       - time: '15:20'
-        icon: fab fa-connectdevelop
+        icon: fa fa-microphone
         title: TBA
         speaker:
           name: TBA
@@ -264,7 +258,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Filipe Ferreira 
           from: Fujitsu
       - time: '16:40'
         icon: fa fa-hourglass-start
@@ -282,5 +276,5 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
-          from: Ibank IT
+          name: Helena Castro
+          from: EBanKit
