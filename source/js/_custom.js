@@ -118,46 +118,59 @@ $(document).ready(function() {
     //         $(this).detach().appendTo('.tweet ul').removeAttr('style');
     //     });
     // }, 12000);
-    $('#map_canvas').gmap({
-        'center': new google.maps.LatLng(41.561471, -8.397279),
-        'zoom': 17,
-        'mapTypeControl': false,
-        'navigationControl': false,
-        'streetViewControl': false,
-        'scrollwheel': false,
-        'styles': [{
-            stylers: [{
-                gamma: 0.60
-            }, {
-                hue: "#5DBEB2"
-            }, {
-                invert_lightness: false
-            }, {
-                lightness: 2
-            }, {
-                saturation: -20
-            }, {
-                visibility: "on"
-            }]
-        }]
-    });
-    var image = {
-        url: 'images/marker.png',
-        size: new google.maps.Size(51, 63),
-        origin: new google.maps.Point(0, 0),
-        anchor: new google.maps.Point(26, 63)
-    };
-    $('#map_canvas').gmap().bind('init', function() {
-        $('#map_canvas').gmap('addMarker', {
-            'id': 'marker-1',
-            'position': '41.561493,-8.397009',
-            'bounds': false,
-            'icon': image
-        }).click(function() {
-            $('#map_canvas').gmap('openInfoWindow', {
-                'content': '<h4>JOIN 2019</h4><p><strong>Departamento de Informática</strong><br>Anfiteatro 2</p>'
-            }, this);
-        });
-    });
-    // end
+    var map_canvas = L.map('map').setView([41.561471, -8.397279], 15);
+        
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYXNhYyIsImEiOiJjanc5ZXk1b28waW80NDhwZGtpMmNxZXQyIn0.qFdaiXjKT-PEHynSVIehwg', {
+        maxZoom: 20,
+        id: 'mapbox.streets',
+        accessToken: 'your.mapbox.access.token'
+    }).addTo(map_canvas);
+
+    var popup = L.popup()
+        .setLatLng([41.561471, -8.397279])
+        .setContent("CP2-Universidade do Minho")
+        .openOn(map_canvas);
+    
+    // $('#map_canvas').gmap({
+    //     // 'center': new google.maps.LatLng(41.561471, -8.397279),
+    //     // 'zoom': 17,
+    //     // 'mapTypeControl': false,
+    //     // 'navigationControl': false,
+    //     // 'streetViewControl': false,
+    //     // 'scrollwheel': false,
+    //     // 'styles': [{
+    //     //     stylers: [{
+    //     //         gamma: 0.60
+    //     //     }, {
+    //     //         hue: "#5DBEB2"
+    //     //     }, {
+    //     //         invert_lightness: false
+    //     //     }, {
+    //     //         lightness: 2
+    //     //     }, {
+    //     //         saturation: -20
+    //     //     }, {
+    //     //         visibility: "on"
+    //     //     }]
+    //     // }]
+    // });
+    // var image = {
+    //     url: 'images/marker.png',
+    //     size: new google.maps.Size(51, 63),
+    //     origin: new google.maps.Point(0, 0),
+    //     anchor: new google.maps.Point(26, 63)
+    // };
+    // $('#map_canvas').gmap().bind('init', function() {
+    //     $('#map_canvas').gmap('addMarker', {
+    //         'id': 'marker-1',
+    //         'position': '41.561493,-8.397009',
+    //         'bounds': false,
+    //         'icon': image
+    //     }).click(function() {
+    //         $('#map_canvas').gmap('openInfoWindow', {
+    //             'content': '<h4>JOIN 2019</h4><p><strong>Departamento de Informática</strong><br>Anfiteatro 2</p>'
+    //         }, this);
+    //     });
+    // });
+    // // end
 })

@@ -51,6 +51,8 @@ Slim::Engine.disable_option_validator!
 # end
 
 activate :relative_assets
+activate :sprockets
+
 set :relative_links, true
 
 set :css_dir, 'css'

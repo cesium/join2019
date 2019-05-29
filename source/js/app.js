@@ -9,3 +9,4 @@
 //= require "_jquery.countdown.min.js"
 //= require "_tweetie.min.js"
 //= require "_custom.js"
+//= require "_event.js"
