@@ -36,9 +36,9 @@ days:
           Sessão de abertura da edição deste ano. Será apresentado o calendário, parceiros e concursos da JOIN.
       - time: '10:00'
         icon: fa fa-microphone
-        title: TBA
+        title: How to orchestrate the Trading platform
         speaker:
-          name: TBA
+          name: Marco Machado 
           from: Euronext
       - time: '10:20'
         icon: fab fa-connectdevelop
@@ -66,10 +66,10 @@ days:
           name: Miguel Palhas
       - time: '15:20'
         icon: fa fa-microphone
-        title: TBA
+        title: Cars, the next big thing in the Internet of Things
         speaker:
           name: João Esteves
-          from: Critical Software
+          from: Critical Techworks
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -83,7 +83,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Andreia Gonçalves
           from: Kwan
       - time: '16:50'
         icon: fa fa-hourglass-start
@@ -95,7 +95,7 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Inês Monteiro
           from: Aubay
       - time: '17:10'
         icon: fa fa-hourglass-start
@@ -107,9 +107,9 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Filipe Duarte
           from: Winprovit
-      - time: '17:20'
+      - time: '17:30'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
@@ -119,12 +119,6 @@ days:
   - id: daytwo
     date: Junho 4
     events:
-      - time: '09:15'
-        icon: fa fa-chevron-circle-right
-        title: TBA
-        speaker:
-          name: TBA
-          from: Primavera BSS
       - time: '09:35'
         icon: fa fa-microphone
         title: TBA
@@ -141,7 +135,7 @@ days:
         title: Coffee Break
       - time: '11:35'
         icon: fa fa-microphone
-        title: TBA
+        title: Shifting to microservices in the real world
         speaker:
           name: Luís Barbosa e Hugo Neto
           from: 360 Imprimir    
@@ -163,10 +157,10 @@ days:
           from: Eurotux
       - time: '15:40'
         icon: fa fa-microphone
-        title: TBA
+        title: Are U a Tech BFF?"
         speaker:
-          name: TBA
-          from: Open Soft
+          name: Jorge Ribeiro - Hugo Lourenço
+          from: Primavera BSS
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -180,13 +174,13 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Joana Gonçalves
           from: IT Sector
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Cláudia Gonçalves, Vasco Bessa
           from: Gfi Portugal
       - time: '17:00'
         icon: fa fa-hourglass-start
@@ -198,14 +192,20 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Gabriela Moura
           from: Inova-Ria
       - time: '17:20'
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
+          name: Carlos Viana
           from: Go Contact
+      - time: '17:30'
+        icon: fa fa-hourglass-start
+        title: Pitch
+        speaker:
+          name: Pedro Alves
+          from: Wintouch
       - time: '18:30'
         icon: beer
         title: Sunset
@@ -220,12 +220,12 @@ days:
         title: TBA
         speaker:
           name: TBA
-          from: TBA
+          from: Aptiv
       - time: '10:20'
         icon: fab fa-connectdevelop
         title: TBA
         speaker:
-          name: TBA
+          name: Nuno Sousa
       - time: '11:05'
         icon: fa fa-coffee
         title: Coffee Break
@@ -240,9 +240,9 @@ days:
         title: Almoço
       - time: '14:30'
         icon: fab fa-connectdevelop
-        title: TBA
+        title: A área da Computação Gráfica e os seus atuais desafios
         speaker:
-          name: TBA
+          name: António Ramires Fernandes
       - time: '15:20'
         icon: fa fa-microphone
         title: TBA
@@ -254,7 +254,7 @@ days:
         title: TBA
         speaker:
           name: TBA
-          from: Ordem dos Engenheiros
+          from: Ordem dos Engenheiros - Região Norte
       - time: '16:00'
         icon: fa fa-coffee
         title: Coffee Break
@@ -268,8 +268,8 @@ days:
         icon: fa fa-hourglass-start
         title: Pitch
         speaker:
-          name: TBA
-          from: Creative Systems
+          name: Isabel Martins, Tiago Largato
+          from: Johnson Controls 
       - time: '16:50'
         icon: fa fa-hourglass-start
         title: Pitch
@@ -282,3 +282,21 @@ days:
         speaker:
           name: Helena Castro
           from: EBanKit
+      - time: '17:10'
+        icon: fa fa-hourglass-start
+        title: Pitch
+        speaker:
+          name: Ricardo Lopes
+          from: Fast-mp - Live Marketplace 
+      - time: '17:20'
+        icon: fa fa-hourglass-start
+        title: Pitch
+        speaker:
+          name: TBA
+          from: Konk Consulting
+      - time: '17:30'
+        icon: fa fa-hourglass-start
+        title: Pitch
+        speaker:
+          name: TBA
+          from: Retail Consult
