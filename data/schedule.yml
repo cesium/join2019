@@ -223,7 +223,7 @@ days:
           from: Aptiv
       - time: '10:20'
         icon: fab fa-connectdevelop
-        title: TBA
+        title: Computação Visual para a Indústria 4.0
         speaker:
           name: Nuno Sousa
       - time: '11:05'
